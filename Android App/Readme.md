@@ -16,10 +16,10 @@ Extract Trends from Social Media Data and Display corresponding searches in Flip
 ## **Screenshots**
 
 <div align="center" style="margin:auto;width:100%;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;">
-<img width="250px" margin="30px" style="margin:20px;" src="[./assets/Splash.png](https://drive.google.com/file/d/1fE1gNttnwD-ksNNt7hSZftohGbyMKowr/view?usp=sharing)">
-<img width="250px" margin="30px" style="margin:20px;" src="./assets/Home.png">
-<img width="250px" margin="30px" style="margin:20px;" src="./assets/Create.png">
-<img width="250px" margin="30px" style="margin:20px;" src="./assets/Edit.png">
-<img width="250px" margin="30px" style="margin:20px;" src="./assets/Search.png">
-<img width="250px" margin="30px" style="margin:20px;" src="./assets/Find.png">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_1.png">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_2.png">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_3.png">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_4.png">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_5.png">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_6.png">
 </div>
