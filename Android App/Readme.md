@@ -26,4 +26,4 @@ Extract Trends from Social Media Data and Display corresponding searches in Flip
 
 ## **Links**
 
-Android [releases]([https://drive.google.com/file/d/12kqE_JR1nwDHKNPCObhflDT3SJOcIcsk/view?usp=sharing](https://drive.google.com/file/d/1jViM8zKpTV4qe9Cudd8IjaH76KYyIDnv/view?usp=sharing))
+Android [releases](https://drive.google.com/file/d/12kqE_JR1nwDHKNPCObhflDT3SJOcIcsk/view?usp=sharing)
