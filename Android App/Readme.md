@@ -23,3 +23,7 @@ Extract Trends from Social Media Data and Display corresponding searches in Flip
 <img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_5.png">
 <img width="250px" margin="30px" style="margin:20px;" src="./assets/prod_6.png">
 </div>
+
+## **Links**
+
+Android [releases](https://drive.google.com/file/d/12kqE_JR1nwDHKNPCObhflDT3SJOcIcsk/view?usp=sharing)
